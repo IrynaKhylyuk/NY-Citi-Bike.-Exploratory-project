@@ -5,8 +5,12 @@ The goal is to perform an in-depth exploratory analysis of data, reveal signific
 # Data set 
 Data set was taken from Kaggle. It contains 1 month bikes rides information in Manhattan such as weekday, start hour, start time,	start station name, geo localization stations, trip duration, subscriber, birth year, gender.
 Also was used NYC zip code GeoJSON from GitHub 
-
 # Limitation of the project
 The data set acquired only one month-long period and only few regions of New York City (Manhattan and Brooklyn). This limitation can influence on results accuracy of analysis. 
-# Presentation 
-Full presentation can be found on Tableu Public 
+# Description of folders
+
++ 01 Project management: Project Brief
++ 02 Data: original Data; Prepared Data.
++ 03 Scripts: Contains all the Python coding involved for the entire analysis process
++ 04 Analysis: Report (this folder has been excluded); Test files (this folder has been excluded); Visualization
++ 05 Send to client: Final report in Tableau Public

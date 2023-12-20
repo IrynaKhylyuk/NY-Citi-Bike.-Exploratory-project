@@ -16,5 +16,4 @@ The data set acquired only one month-long period and only few regions of New Yor
 + 05 Send to client: (this folder has been excluded) Final report presented in Tableau Public
 
 ## Vizualization 
-Visualizations were created in Tableau. The link to the storyboard can be found here: [NY Citi Bike]
-(https://public.tableau.com/app/profile/iryna.khylyuk/viz/NYCitiBike_Exploratoryproject/ExploratoryprojectCitiBike)
+Visualizations were created in Tableau. The link to the storyboard can be found here: [NY Citi Bike](https://public.tableau.com/app/profile/iryna.khylyuk/viz/NYCitiBike_Exploratoryproject/ExploratoryprojectCitiBike)
